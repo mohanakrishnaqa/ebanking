@@ -1,0 +1,556 @@
+2022-06-24 12:23:06,276 - ebanking -INFO - Entered URL
+2022-06-24 12:23:06,455 - ebanking -INFO - Entered UserName
+2022-06-24 12:23:06,560 - ebanking -INFO - Entered Password
+2022-06-24 12:23:08,722 - ebanking -INFO - Submitted
+2022-06-24 12:23:08,755 - ebanking -INFO - Login test passed
+2022-06-30 17:27:52,120 - ebanking -INFO - Entered URL
+2022-06-30 17:27:52,275 - ebanking -INFO - Entered UserName
+2022-06-30 17:27:52,407 - ebanking -INFO - Entered Password
+2022-06-30 17:28:27,000 - ebanking -INFO - Submitted
+2022-06-30 17:28:27,020 - ebanking -INFO - Login test passed
+2022-06-30 19:04:50,592 - ebanking -INFO - Entered URL
+2022-06-30 19:04:50,825 - ebanking -INFO - Entered UserName
+2022-06-30 19:04:51,160 - ebanking -INFO - Entered Password
+2022-06-30 19:05:14,463 - ebanking -INFO - Submitted
+2022-06-30 19:05:14,477 - ebanking -INFO - Login test passed
+2022-06-30 19:07:58,580 - ebanking -INFO - Entered URL
+2022-06-30 19:07:59,049 - ebanking -INFO - Entered UserName
+2022-06-30 19:07:59,254 - ebanking -INFO - Entered Password
+2022-06-30 19:08:22,563 - ebanking -INFO - Submitted
+2022-06-30 19:08:22,581 - ebanking -INFO - Login test passed
+2022-06-30 19:15:38,297 - ebanking -INFO - Entered URL
+2022-07-01 10:34:00,139 - ebanking -INFO - Entered URL
+2022-07-01 10:34:00,342 - ebanking -INFO - Entered UserName
+2022-07-01 10:34:00,794 - ebanking -INFO - Entered Password
+2022-07-01 10:34:22,102 - ebanking -INFO - Submitted
+2022-07-01 10:34:22,139 - ebanking -INFO - Login test passed
+2022-07-01 11:01:44,675 - ebanking -INFO - Entered URL
+2022-07-01 11:01:44,929 - ebanking -INFO - Entered UserName
+2022-07-01 11:01:45,164 - ebanking -INFO - Entered Password
+2022-07-01 11:02:08,422 - ebanking -INFO - Submitted
+2022-07-01 11:05:40,596 - ebanking -INFO - Entered URL
+2022-07-01 11:05:40,851 - ebanking -INFO - Entered UserName
+2022-07-01 11:05:41,008 - ebanking -INFO - Entered Password
+2022-07-01 11:06:04,355 - ebanking -INFO - Submitted
+2022-07-01 12:47:56,017 - ebanking -INFO - Entered URL
+2022-07-01 12:47:56,292 - ebanking -INFO - Entered UserName
+2022-07-01 12:47:56,549 - ebanking -INFO - Entered Password
+2022-07-01 12:48:19,916 - ebanking -INFO - Submitted
+2022-07-01 12:48:19,934 - ebanking -INFO - Login test passed
+2022-07-01 18:50:21,646 - ebanking -INFO - user name provided
+2022-07-01 18:50:21,797 - ebanking -INFO - password provided
+2022-07-01 20:26:11,097 - ebanking -INFO - user name provided
+2022-07-01 20:26:11,240 - ebanking -INFO - password provided
+2022-07-01 20:28:05,452 - ebanking -INFO - user name provided
+2022-07-01 20:28:05,555 - ebanking -INFO - password provided
+2022-07-01 20:28:34,643 - ebanking -INFO - user name provided
+2022-07-01 20:28:34,742 - ebanking -INFO - password provided
+2022-07-01 20:33:16,267 - ebanking -INFO - user name provided
+2022-07-01 20:33:16,398 - ebanking -INFO - password provided
+2022-07-01 20:35:53,830 - ebanking -INFO - user name provided
+2022-07-01 20:35:53,948 - ebanking -INFO - password provided
+2022-07-01 20:36:21,437 - ebanking -WARN - Login failed
+2022-07-01 20:46:14,525 - ebanking -INFO - user name provided
+2022-07-01 20:46:14,679 - ebanking -INFO - password provided
+2022-07-01 20:46:42,944 - ebanking -WARN - Login failed
+2022-07-01 20:46:43,234 - ebanking -INFO - user name provided
+2022-07-01 20:46:43,347 - ebanking -INFO - password provided
+2022-07-01 20:47:10,719 - ebanking -WARN - Login failed
+2022-07-01 20:47:10,957 - ebanking -INFO - user name provided
+2022-07-01 20:47:11,081 - ebanking -INFO - password provided
+2022-07-01 20:47:41,327 - ebanking -WARN - Login failed
+2022-07-01 20:47:41,456 - ebanking -INFO - user name provided
+2022-07-01 20:47:41,634 - ebanking -INFO - password provided
+2022-07-01 20:49:17,223 - ebanking -INFO - user name provided
+2022-07-01 20:49:17,355 - ebanking -INFO - password provided
+2022-07-01 20:49:46,069 - ebanking -INFO - user name provided
+2022-07-01 20:49:46,192 - ebanking -INFO - password provided
+2022-07-01 20:50:13,918 - ebanking -INFO - user name provided
+2022-07-01 20:50:14,112 - ebanking -INFO - password provided
+2022-07-01 20:50:41,713 - ebanking -INFO - user name provided
+2022-07-01 20:50:41,842 - ebanking -INFO - password provided
+2022-07-01 20:51:08,556 - ebanking -INFO - Login passed
+2022-07-01 20:54:04,805 - ebanking -INFO - user name provided
+2022-07-01 20:54:04,972 - ebanking -INFO - password provided
+2022-07-01 20:54:12,535 - ebanking -INFO - user name provided
+2022-07-01 20:54:12,648 - ebanking -INFO - password provided
+2022-07-01 20:54:33,221 - ebanking -INFO - user name provided
+2022-07-01 20:54:33,325 - ebanking -INFO - password provided
+2022-07-01 20:54:40,797 - ebanking -INFO - user name provided
+2022-07-01 20:54:40,916 - ebanking -INFO - password provided
+2022-07-01 20:55:03,810 - ebanking -INFO - Login passed
+2022-07-05 14:10:45,394 - ebanking -INFO - user name provided
+2022-07-05 14:10:45,593 - ebanking -INFO - password provided
+2022-07-05 14:11:13,640 - ebanking -INFO - user name provided
+2022-07-05 14:11:13,769 - ebanking -INFO - password provided
+2022-07-05 14:11:41,164 - ebanking -INFO - user name provided
+2022-07-05 14:11:41,280 - ebanking -INFO - password provided
+2022-07-05 14:12:08,480 - ebanking -INFO - user name provided
+2022-07-05 14:12:08,584 - ebanking -INFO - password provided
+2022-07-05 14:12:35,122 - ebanking -INFO - Login passed
+2022-07-05 16:51:11,013 - ebanking -INFO - Username entered
+2022-07-05 16:51:11,126 - ebanking -INFO - Password entered
+2022-07-05 16:51:34,344 - ebanking -INFO - Submitted
+2022-07-05 16:51:37,506 - ebanking -INFO - Navigated to new customer page
+2022-07-05 16:56:40,204 - ebanking -INFO - Username entered
+2022-07-05 16:56:40,359 - ebanking -INFO - Password entered
+2022-07-05 16:56:42,132 - ebanking -INFO - Submitted
+2022-07-05 16:56:45,321 - ebanking -INFO - Navigated to new customer page
+2022-07-05 16:59:57,028 - ebanking -INFO - Username entered
+2022-07-05 16:59:57,205 - ebanking -INFO - Password entered
+2022-07-05 17:01:22,410 - ebanking -INFO - Username entered
+2022-07-05 17:01:22,714 - ebanking -INFO - Password entered
+2022-07-05 17:01:24,756 - ebanking -INFO - Submitted
+2022-07-05 17:01:27,868 - ebanking -INFO - Navigated to new customer page
+2022-07-05 17:19:13,340 - ebanking -INFO - Username entered
+2022-07-05 17:19:13,459 - ebanking -INFO - Password entered
+2022-07-05 17:19:15,219 - ebanking -INFO - Submitted
+2022-07-05 17:19:18,329 - ebanking -INFO - Navigated to new customer page
+2022-07-05 17:24:57,999 - ebanking -INFO - Username entered
+2022-07-05 17:24:58,117 - ebanking -INFO - Password entered
+2022-07-05 17:34:52,487 - ebanking -INFO - Username entered
+2022-07-05 17:34:52,663 - ebanking -INFO - Password entered
+2022-07-05 17:35:15,808 - ebanking -INFO - Submitted
+2022-07-05 17:35:18,913 - ebanking -INFO - Navigated to new customer page
+2022-07-05 17:51:11,452 - ebanking -INFO - Username entered
+2022-07-05 17:51:11,732 - ebanking -INFO - Password entered
+2022-07-05 17:51:34,746 - ebanking -INFO - Submitted
+2022-07-05 17:51:37,862 - ebanking -INFO - Navigated to new customer page
+2022-07-05 18:00:27,670 - ebanking -INFO - Username entered
+2022-07-05 18:00:28,017 - ebanking -INFO - Password entered
+2022-07-05 18:00:51,366 - ebanking -INFO - Submitted
+2022-07-05 18:00:54,570 - ebanking -INFO - Navigated to new customer page
+2022-07-05 18:49:00,506 - ebanking -INFO - Username entered
+2022-07-05 18:49:00,906 - ebanking -INFO - Password entered
+2022-07-05 18:49:24,351 - ebanking -INFO - Submitted
+2022-07-05 18:49:27,527 - ebanking -INFO - Navigated to new customer page
+2022-07-05 18:53:49,790 - ebanking -INFO - Username entered
+2022-07-05 18:53:50,077 - ebanking -INFO - Password entered
+2022-07-05 18:54:19,230 - ebanking -INFO - Submitted
+2022-07-05 18:54:22,482 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:23:52,501 - ebanking -INFO - Username entered
+2022-07-05 21:23:52,924 - ebanking -INFO - Password entered
+2022-07-05 21:24:16,103 - ebanking -INFO - Submitted
+2022-07-05 21:24:22,051 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:25:31,418 - ebanking -INFO - Username entered
+2022-07-05 21:25:31,920 - ebanking -INFO - Password entered
+2022-07-05 21:25:55,547 - ebanking -INFO - Submitted
+2022-07-05 21:25:58,708 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:27:33,226 - ebanking -INFO - Username entered
+2022-07-05 21:27:33,714 - ebanking -INFO - Password entered
+2022-07-05 21:27:57,183 - ebanking -INFO - Submitted
+2022-07-05 21:28:00,366 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:30:51,302 - ebanking -INFO - Username entered
+2022-07-05 21:30:51,507 - ebanking -INFO - Password entered
+2022-07-05 21:31:14,632 - ebanking -INFO - Submitted
+2022-07-05 21:31:17,736 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:33:27,183 - ebanking -INFO - Username entered
+2022-07-05 21:33:27,293 - ebanking -INFO - Password entered
+2022-07-05 21:34:29,195 - ebanking -INFO - Username entered
+2022-07-05 21:34:29,333 - ebanking -INFO - Password entered
+2022-07-05 21:34:31,120 - ebanking -INFO - Submitted
+2022-07-05 21:34:34,262 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:35:38,417 - ebanking -INFO - Username entered
+2022-07-05 21:35:38,547 - ebanking -INFO - Password entered
+2022-07-05 21:36:53,720 - ebanking -INFO - Username entered
+2022-07-05 21:36:53,859 - ebanking -INFO - Password entered
+2022-07-05 21:37:17,167 - ebanking -INFO - Submitted
+2022-07-05 21:37:20,476 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:40:42,431 - ebanking -INFO - Username entered
+2022-07-05 21:40:42,542 - ebanking -INFO - Password entered
+2022-07-05 21:42:24,491 - ebanking -INFO - Username entered
+2022-07-05 21:42:24,730 - ebanking -INFO - Password entered
+2022-07-05 21:42:47,828 - ebanking -INFO - Submitted
+2022-07-05 21:42:50,955 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:52:44,025 - ebanking -INFO - Username entered
+2022-07-05 21:52:44,545 - ebanking -INFO - Password entered
+2022-07-05 21:52:47,404 - ebanking -INFO - Submitted
+2022-07-05 21:52:50,622 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:58:38,135 - ebanking -INFO - Username entered
+2022-07-05 21:58:38,313 - ebanking -INFO - Password entered
+2022-07-05 21:59:01,569 - ebanking -INFO - Submitted
+2022-07-05 21:59:27,896 - ebanking -INFO - Navigated to new customer page
+2022-07-05 21:59:30,946 - ebanking -INFO - Switched to iFrame
+2022-07-06 11:27:52,176 - ebanking -INFO - Username entered
+2022-07-06 11:27:52,306 - ebanking -INFO - Password entered
+2022-07-06 11:28:15,532 - ebanking -INFO - Submitted
+2022-07-06 11:28:18,678 - ebanking -INFO - Navigated to new customer page
+2022-07-06 11:30:48,022 - ebanking -INFO - Username entered
+2022-07-06 11:30:48,171 - ebanking -INFO - Password entered
+2022-07-06 11:31:12,462 - ebanking -INFO - Submitted
+2022-07-06 11:31:15,561 - ebanking -INFO - Navigated to new customer page
+2022-07-06 11:46:41,910 - ebanking -INFO - Username entered
+2022-07-06 11:46:42,025 - ebanking -INFO - Password entered
+2022-07-06 11:46:44,214 - ebanking -INFO - Submitted
+2022-07-06 11:46:47,348 - ebanking -INFO - Navigated to new customer page
+2022-07-06 12:34:04,606 - ebanking -INFO - Username entered
+2022-07-06 12:34:04,991 - ebanking -INFO - Password entered
+2022-07-06 12:34:28,554 - ebanking -INFO - Submitted
+2022-07-06 12:34:31,723 - ebanking -INFO - Navigated to new customer page
+2022-07-06 12:44:02,386 - ebanking -INFO - Username entered
+2022-07-06 12:44:02,673 - ebanking -INFO - Password entered
+2022-07-06 12:44:25,599 - ebanking -INFO - Submitted
+2022-07-06 12:44:30,238 - ebanking -INFO - Navigated to new customer page
+2022-07-06 12:44:37,751 - ebanking -INFO - Filled new customer details
+2022-07-06 12:44:37,841 - ebanking -INFO - New customer details submitted
+2022-07-06 12:44:40,846 - ebanking -INFO - Validation started
+2022-07-06 12:46:36,544 - ebanking -INFO - Username entered
+2022-07-06 12:46:36,875 - ebanking -INFO - Password entered
+2022-07-06 12:46:59,866 - ebanking -INFO - Submitted
+2022-07-06 12:47:02,962 - ebanking -INFO - Navigated to new customer page
+2022-07-06 12:48:14,546 - ebanking -INFO - Username entered
+2022-07-06 12:48:14,677 - ebanking -INFO - Password entered
+2022-07-06 12:48:37,821 - ebanking -INFO - Submitted
+2022-07-06 12:49:03,812 - ebanking -INFO - Navigated to new customer page
+2022-07-06 12:49:11,437 - ebanking -INFO - Filled new customer details
+2022-07-06 12:49:11,505 - ebanking -INFO - New customer details submitted
+2022-07-06 12:49:14,507 - ebanking -INFO - Validation started
+2022-07-06 12:52:08,766 - ebanking -INFO - Username entered
+2022-07-06 12:52:08,882 - ebanking -INFO - Password entered
+2022-07-06 12:52:32,030 - ebanking -INFO - Submitted
+2022-07-06 12:52:35,287 - ebanking -INFO - Navigated to new customer page
+2022-07-06 14:55:00,441 - ebanking -INFO - Username entered
+2022-07-06 14:55:00,628 - ebanking -INFO - Password entered
+2022-07-06 14:55:38,188 - ebanking -INFO - Username entered
+2022-07-06 14:55:38,483 - ebanking -INFO - Password entered
+2022-07-06 14:56:01,287 - ebanking -INFO - Submitted
+2022-07-06 14:56:04,379 - ebanking -INFO - Navigated to new customer page
+2022-07-06 14:56:44,082 - ebanking -INFO - Username entered
+2022-07-06 14:56:44,328 - ebanking -INFO - Password entered
+2022-07-06 14:57:07,455 - ebanking -INFO - Submitted
+2022-07-06 14:57:10,563 - ebanking -INFO - Navigated to new customer page
+2022-07-06 14:57:49,557 - ebanking -INFO - Username entered
+2022-07-06 14:57:49,666 - ebanking -INFO - Password entered
+2022-07-06 14:58:25,269 - ebanking -INFO - Username entered
+2022-07-06 14:58:25,548 - ebanking -INFO - Password entered
+2022-07-06 14:58:48,561 - ebanking -INFO - Submitted
+2022-07-06 14:58:51,662 - ebanking -INFO - Navigated to new customer page
+2022-07-06 14:58:59,061 - ebanking -INFO - Filled new customer details
+2022-07-06 14:58:59,128 - ebanking -INFO - New customer details submitted
+2022-07-06 14:59:02,131 - ebanking -INFO - Validation started
+2022-07-06 15:11:27,597 - ebanking -INFO - Username entered
+2022-07-06 15:11:27,832 - ebanking -INFO - Password entered
+2022-07-06 15:11:50,902 - ebanking -INFO - Submitted
+2022-07-06 15:12:16,756 - ebanking -INFO - Navigated to new customer page
+2022-07-06 15:12:24,117 - ebanking -INFO - Filled new customer details
+2022-07-06 15:12:47,465 - ebanking -INFO - New customer details submitted
+2022-07-06 15:12:50,469 - ebanking -INFO - Validation started
+2022-07-06 15:12:50,530 - ebanking -INFO - Testcase passed
+2022-07-06 15:24:48,893 - ebanking -INFO - Entered URL
+2022-07-06 15:24:49,106 - ebanking -INFO - Entered UserName
+2022-07-06 15:24:49,230 - ebanking -INFO - Entered Password
+2022-07-06 15:24:51,910 - ebanking -INFO - Submitted
+2022-07-06 15:24:51,927 - ebanking -INFO - Login test passed
+2022-07-06 15:25:20,449 - ebanking -INFO - user name provided
+2022-07-06 15:25:20,563 - ebanking -INFO - password provided
+2022-07-06 15:25:49,006 - ebanking -INFO - user name provided
+2022-07-06 15:25:49,129 - ebanking -INFO - password provided
+2022-07-06 15:26:16,788 - ebanking -INFO - user name provided
+2022-07-06 15:26:16,900 - ebanking -INFO - password provided
+2022-07-06 15:26:44,164 - ebanking -INFO - user name provided
+2022-07-06 15:26:44,281 - ebanking -INFO - password provided
+2022-07-06 15:27:10,979 - ebanking -INFO - Login passed
+2022-07-06 15:28:05,274 - ebanking -INFO - Username entered
+2022-07-06 15:28:05,524 - ebanking -INFO - Password entered
+2022-07-06 15:28:28,484 - ebanking -INFO - Submitted
+2022-07-06 15:28:33,177 - ebanking -INFO - Navigated to new customer page
+2022-07-06 15:28:40,723 - ebanking -INFO - Filled new customer details
+2022-07-06 15:28:54,511 - ebanking -INFO - New customer details submitted
+2022-07-06 15:28:57,523 - ebanking -INFO - Validation started
+2022-07-06 15:28:57,568 - ebanking -INFO - Testcase passed
+2022-07-06 15:35:08,934 - ebanking -INFO - user name provided
+2022-07-06 15:35:09,088 - ebanking -INFO - password provided
+2022-07-06 15:35:38,009 - ebanking -INFO - user name provided
+2022-07-06 15:35:38,149 - ebanking -INFO - password provided
+2022-07-06 15:35:44,480 - ebanking -INFO - user name provided
+2022-07-06 15:35:44,600 - ebanking -INFO - password provided
+2022-07-09 12:53:36,181 - ebanking -INFO - user name provided
+2022-07-09 12:53:36,356 - ebanking -INFO - password provided
+2022-07-09 12:53:43,328 - ebanking -INFO - user name provided
+2022-07-09 12:53:43,524 - ebanking -INFO - password provided
+2022-07-09 12:54:04,162 - ebanking -INFO - user name provided
+2022-07-09 12:54:04,279 - ebanking -INFO - password provided
+2022-07-09 12:54:10,522 - ebanking -INFO - user name provided
+2022-07-09 12:54:10,653 - ebanking -INFO - password provided
+2022-07-09 12:54:34,219 - ebanking -INFO - Login passed
+2022-07-09 12:55:28,724 - ebanking -INFO - Username entered
+2022-07-09 12:55:28,848 - ebanking -INFO - Password entered
+2022-07-09 12:55:51,985 - ebanking -INFO - Submitted
+2022-07-09 12:55:55,123 - ebanking -INFO - Navigated to new customer page
+2022-07-11 07:17:36,722 - ebanking -INFO - Entered URL
+2022-07-11 07:17:37,047 - ebanking -INFO - Entered UserName
+2022-07-11 07:17:37,248 - ebanking -INFO - Entered Password
+2022-07-11 07:18:00,617 - ebanking -INFO - Submitted
+2022-07-11 07:18:00,632 - ebanking -INFO - Login test passed
+2022-07-11 07:18:29,448 - ebanking -INFO - user name provided
+2022-07-11 07:18:29,605 - ebanking -INFO - password provided
+2022-07-11 07:18:37,308 - ebanking -INFO - user name provided
+2022-07-11 07:18:37,514 - ebanking -INFO - password provided
+2022-07-11 07:18:58,242 - ebanking -INFO - user name provided
+2022-07-11 07:18:58,361 - ebanking -INFO - password provided
+2022-07-11 07:19:04,991 - ebanking -INFO - user name provided
+2022-07-11 07:19:05,120 - ebanking -INFO - password provided
+2022-07-11 07:19:28,350 - ebanking -INFO - Login passed
+2022-07-11 07:20:21,734 - ebanking -INFO - Username entered
+2022-07-11 07:20:21,840 - ebanking -INFO - Password entered
+2022-07-11 07:59:42,508 - ebanking -INFO - user name provided
+2022-07-11 07:59:42,676 - ebanking -INFO - password provided
+2022-07-11 08:00:09,768 - ebanking -INFO - user name provided
+2022-07-11 08:00:10,026 - ebanking -INFO - password provided
+2022-07-11 08:00:37,361 - ebanking -INFO - user name provided
+2022-07-11 08:00:37,486 - ebanking -INFO - password provided
+2022-07-11 08:01:06,560 - ebanking -INFO - user name provided
+2022-07-11 08:01:06,730 - ebanking -INFO - password provided
+2022-07-11 08:01:32,753 - ebanking -INFO - Login passed
+2022-07-11 08:02:26,862 - ebanking -INFO - Username entered
+2022-07-11 08:02:26,960 - ebanking -INFO - Password entered
+2022-07-11 08:13:14,233 - ebanking -INFO - Username entered
+2022-07-11 08:13:14,393 - ebanking -INFO - Password entered
+2022-07-11 08:13:16,544 - ebanking -INFO - Submitted
+2022-07-11 08:13:19,657 - ebanking -INFO - Navigated to new customer page
+2022-07-11 08:13:27,423 - ebanking -INFO - Filled new customer details
+2022-07-11 08:13:29,703 - ebanking -INFO - New customer details submitted
+2022-07-11 08:13:32,712 - ebanking -INFO - Validation started
+2022-07-11 08:13:32,763 - ebanking -INFO - Testcase passed
+2022-07-11 22:49:16,284 - ebanking -INFO - user name provided
+2022-07-11 22:49:16,394 - ebanking -INFO - password provided
+2022-07-11 22:49:35,669 - ebanking -INFO - user name provided
+2022-07-11 22:49:35,842 - ebanking -INFO - password provided
+2022-07-11 22:49:45,311 - ebanking -INFO - user name provided
+2022-07-11 22:49:45,621 - ebanking -INFO - password provided
+2022-07-11 22:49:51,901 - ebanking -INFO - user name provided
+2022-07-11 22:49:52,013 - ebanking -INFO - password provided
+2022-07-11 22:49:56,892 - ebanking -INFO - Login passed
+2022-07-11 22:50:30,051 - ebanking -INFO - Username entered
+2022-07-11 22:50:30,172 - ebanking -INFO - Password entered
+2022-07-12 07:56:49,711 - ebanking -INFO - Entered URL
+2022-07-12 07:56:50,458 - ebanking -INFO - Entered UserName
+2022-07-12 07:56:50,673 - ebanking -INFO - Entered Password
+2022-07-12 07:56:53,971 - ebanking -INFO - Submitted
+2022-07-12 07:56:54,027 - ebanking -INFO - Login test passed
+2022-07-12 07:57:20,192 - ebanking -INFO - user name provided
+2022-07-12 07:57:20,398 - ebanking -INFO - password provided
+2022-07-12 07:57:39,903 - ebanking -INFO - user name provided
+2022-07-12 07:57:40,478 - ebanking -INFO - password provided
+2022-07-12 07:57:49,625 - ebanking -INFO - user name provided
+2022-07-12 07:57:49,741 - ebanking -INFO - password provided
+2022-07-12 07:58:03,462 - ebanking -INFO - Username entered
+2022-07-12 08:04:20,944 - ebanking -INFO - user name provided
+2022-07-12 08:04:21,108 - ebanking -INFO - password provided
+2022-07-12 08:04:29,485 - ebanking -INFO - user name provided
+2022-07-12 08:04:29,601 - ebanking -INFO - password provided
+2022-07-12 08:04:37,123 - ebanking -INFO - user name provided
+2022-07-12 08:04:37,239 - ebanking -INFO - password provided
+2022-07-12 08:04:44,829 - ebanking -INFO - Username entered
+2022-07-12 08:04:45,014 - ebanking -INFO - Password entered
+2022-07-12 08:05:51,591 - ebanking -INFO - Entered URL
+2022-07-12 08:05:51,852 - ebanking -INFO - Entered UserName
+2022-07-12 08:05:52,080 - ebanking -INFO - Entered Password
+2022-07-12 08:05:58,553 - ebanking -INFO - Submitted
+2022-07-12 08:05:58,571 - ebanking -INFO - Login test passed
+2022-07-12 08:06:10,951 - ebanking -INFO - user name provided
+2022-07-12 08:06:11,109 - ebanking -INFO - password provided
+2022-07-12 08:06:21,852 - ebanking -INFO - user name provided
+2022-07-12 08:06:22,278 - ebanking -INFO - password provided
+2022-07-12 08:06:31,131 - ebanking -INFO - user name provided
+2022-07-12 08:06:31,209 - ebanking -INFO - password provided
+2022-07-12 08:06:37,661 - ebanking -INFO - user name provided
+2022-07-12 08:06:37,753 - ebanking -INFO - password provided
+2022-07-12 08:06:44,087 - ebanking -INFO - Login passed
+2022-07-12 08:07:22,910 - ebanking -INFO - Username entered
+2022-07-12 08:07:23,019 - ebanking -INFO - Password entered
+2022-07-12 08:07:26,764 - ebanking -INFO - Submitted
+2022-07-12 08:07:29,884 - ebanking -INFO - Navigated to new customer page
+2022-07-12 08:07:37,339 - ebanking -INFO - Filled new customer details
+2022-07-12 08:07:37,792 - ebanking -INFO - New customer details submitted
+2022-07-12 08:07:40,798 - ebanking -INFO - Validation started
+2022-07-12 08:10:19,657 - ebanking -INFO - user name provided
+2022-07-12 08:10:19,793 - ebanking -INFO - password provided
+2022-07-12 08:13:03,520 - ebanking -INFO - user name provided
+2022-07-12 08:13:03,692 - ebanking -INFO - password provided
+2022-07-12 08:13:11,123 - ebanking -INFO - user name provided
+2022-07-12 08:13:11,423 - ebanking -INFO - password provided
+2022-07-12 08:13:17,466 - ebanking -INFO - user name provided
+2022-07-12 08:13:17,723 - ebanking -INFO - password provided
+2022-07-12 08:13:29,747 - ebanking -INFO - user name provided
+2022-07-12 08:13:29,866 - ebanking -INFO - password provided
+2022-07-12 08:13:35,548 - ebanking -INFO - Login passed
+2022-07-12 08:14:10,279 - ebanking -INFO - Username entered
+2022-07-12 08:14:10,409 - ebanking -INFO - Password entered
+2022-07-12 18:21:55,829 - ebanking -INFO - user name provided
+2022-07-12 18:21:55,979 - ebanking -INFO - password provided
+2022-07-12 18:22:02,397 - ebanking -INFO - user name provided
+2022-07-12 18:22:02,537 - ebanking -INFO - password provided
+2022-07-12 18:22:08,280 - ebanking -INFO - user name provided
+2022-07-12 18:22:08,406 - ebanking -INFO - password provided
+2022-07-12 18:22:13,622 - ebanking -INFO - user name provided
+2022-07-12 18:22:13,724 - ebanking -INFO - password provided
+2022-07-12 18:22:18,652 - ebanking -INFO - Login passed
+2022-07-12 18:22:32,137 - ebanking -INFO - Username entered
+2022-07-12 18:22:32,332 - ebanking -INFO - Password entered
+2022-07-12 21:49:21,665 - ebanking -INFO - user name provided
+2022-07-12 21:49:21,827 - ebanking -INFO - password provided
+2022-07-12 21:49:28,103 - ebanking -INFO - user name provided
+2022-07-12 21:49:28,321 - ebanking -INFO - password provided
+2022-07-12 21:49:34,743 - ebanking -INFO - user name provided
+2022-07-12 21:49:34,869 - ebanking -INFO - password provided
+2022-07-12 21:49:41,291 - ebanking -INFO - user name provided
+2022-07-12 21:49:41,607 - ebanking -INFO - password provided
+2022-07-12 21:49:46,715 - ebanking -INFO - Login passed
+2022-07-12 21:49:59,357 - ebanking -INFO - Username entered
+2022-07-12 21:49:59,728 - ebanking -INFO - Password entered
+2022-07-12 21:56:04,101 - ebanking -INFO - user name provided
+2022-07-12 21:56:04,250 - ebanking -INFO - password provided
+2022-07-12 21:56:10,781 - ebanking -INFO - user name provided
+2022-07-12 21:56:11,034 - ebanking -INFO - password provided
+2022-07-12 21:56:17,169 - ebanking -INFO - user name provided
+2022-07-12 21:56:17,308 - ebanking -INFO - password provided
+2022-07-12 22:16:45,236 - ebanking -INFO - user name provided
+2022-07-12 22:16:45,365 - ebanking -INFO - password provided
+2022-07-12 22:16:52,122 - ebanking -INFO - user name provided
+2022-07-12 22:16:52,257 - ebanking -INFO - password provided
+2022-07-12 22:17:11,036 - ebanking -INFO - Username entered
+2022-07-12 22:17:11,207 - ebanking -INFO - Password entered
+2022-07-12 22:18:18,961 - ebanking -INFO - user name provided
+2022-07-12 22:18:19,094 - ebanking -INFO - password provided
+2022-07-12 22:18:25,647 - ebanking -INFO - user name provided
+2022-07-12 22:18:25,751 - ebanking -INFO - password provided
+2022-07-12 22:18:32,140 - ebanking -INFO - user name provided
+2022-07-12 22:18:32,236 - ebanking -INFO - password provided
+2022-07-12 22:18:38,372 - ebanking -INFO - user name provided
+2022-07-12 22:18:38,466 - ebanking -INFO - password provided
+2022-07-12 22:18:43,386 - ebanking -INFO - Login passed
+2022-07-12 22:18:56,785 - ebanking -INFO - Username entered
+2022-07-12 22:18:57,220 - ebanking -INFO - Password entered
+2022-07-12 22:20:11,219 - ebanking -INFO - Entered URL
+2022-07-12 22:20:11,539 - ebanking -INFO - Entered UserName
+2022-07-12 22:20:11,695 - ebanking -INFO - Entered Password
+2022-07-12 22:20:13,380 - ebanking -INFO - Submitted
+2022-07-12 22:20:13,638 - ebanking -INFO - Login test passed
+2022-07-12 22:20:51,597 - ebanking -INFO - user name provided
+2022-07-12 22:20:51,739 - ebanking -INFO - password provided
+2022-07-12 22:25:50,984 - ebanking -INFO - user name provided
+2022-07-12 22:25:51,159 - ebanking -INFO - password provided
+2022-07-12 22:25:59,100 - ebanking -INFO - user name provided
+2022-07-12 22:25:59,317 - ebanking -INFO - password provided
+2022-07-12 22:26:07,431 - ebanking -INFO - user name provided
+2022-07-12 22:26:07,553 - ebanking -INFO - password provided
+2022-07-12 22:26:14,498 - ebanking -INFO - user name provided
+2022-07-12 22:26:14,622 - ebanking -INFO - password provided
+2022-07-12 22:26:19,626 - ebanking -INFO - Login passed
+2022-07-12 22:26:33,253 - ebanking -INFO - Username entered
+2022-07-12 22:26:33,408 - ebanking -INFO - Password entered
+2022-07-12 22:26:35,958 - ebanking -INFO - Submitted
+2022-07-12 22:26:39,070 - ebanking -INFO - Navigated to new customer page
+2022-07-12 22:31:15,712 - ebanking -INFO - Entered URL
+2022-07-12 22:31:16,916 - ebanking -INFO - Entered UserName
+2022-07-12 22:31:17,319 - ebanking -INFO - Entered Password
+2022-07-12 22:31:21,937 - ebanking -INFO - Submitted
+2022-07-12 22:31:21,957 - ebanking -INFO - Login test passed
+2022-07-12 22:31:33,401 - ebanking -INFO - user name provided
+2022-07-12 22:31:33,523 - ebanking -INFO - password provided
+2022-07-12 22:31:56,835 - ebanking -INFO - user name provided
+2022-07-12 22:31:57,104 - ebanking -INFO - password provided
+2022-07-12 22:32:03,252 - ebanking -INFO - user name provided
+2022-07-12 22:32:03,353 - ebanking -INFO - password provided
+2022-07-12 22:32:09,336 - ebanking -INFO - user name provided
+2022-07-12 22:32:09,471 - ebanking -INFO - password provided
+2022-07-12 22:32:14,023 - ebanking -INFO - Login passed
+2022-07-12 22:32:28,635 - ebanking -INFO - Username entered
+2022-07-12 22:32:28,750 - ebanking -INFO - Password entered
+2022-07-12 22:32:32,620 - ebanking -INFO - Submitted
+2022-07-12 22:32:36,456 - ebanking -INFO - Navigated to new customer page
+2022-07-12 22:33:10,699 - ebanking -INFO - Entered URL
+2022-07-12 22:33:10,853 - ebanking -INFO - Entered UserName
+2022-07-12 22:33:10,954 - ebanking -INFO - Entered Password
+2022-07-12 22:33:13,397 - ebanking -INFO - Submitted
+2022-07-12 22:33:13,413 - ebanking -INFO - Login test passed
+2022-07-12 22:33:21,954 - ebanking -INFO - user name provided
+2022-07-12 22:33:22,118 - ebanking -INFO - password provided
+2022-07-12 22:33:29,718 - ebanking -INFO - user name provided
+2022-07-12 22:33:29,838 - ebanking -INFO - password provided
+2022-07-12 22:33:37,453 - ebanking -INFO - user name provided
+2022-07-12 22:33:38,038 - ebanking -INFO - password provided
+2022-07-12 22:33:44,287 - ebanking -INFO - user name provided
+2022-07-12 22:33:44,407 - ebanking -INFO - password provided
+2022-07-12 22:33:49,241 - ebanking -INFO - Login passed
+2022-07-12 22:35:57,087 - ebanking -INFO - Entered URL
+2022-07-12 22:35:57,562 - ebanking -INFO - Entered UserName
+2022-07-12 22:35:57,673 - ebanking -INFO - Entered Password
+2022-07-12 22:35:59,237 - ebanking -INFO - Submitted
+2022-07-12 22:35:59,255 - ebanking -INFO - Login test passed
+2022-07-12 22:36:08,979 - ebanking -INFO - user name provided
+2022-07-12 22:36:09,116 - ebanking -INFO - password provided
+2022-07-12 22:54:08,733 - ebanking -INFO - Entered URL
+2022-07-12 22:54:08,944 - ebanking -INFO - Entered UserName
+2022-07-12 22:54:09,173 - ebanking -INFO - Entered Password
+2022-07-12 22:54:12,041 - ebanking -INFO - Submitted
+2022-07-12 22:54:12,055 - ebanking -INFO - Login test passed
+2022-07-12 22:54:41,956 - ebanking -INFO - user name provided
+2022-07-12 22:54:42,130 - ebanking -INFO - password provided
+2022-07-12 22:54:48,371 - ebanking -INFO - user name provided
+2022-07-12 22:54:48,481 - ebanking -INFO - password provided
+2022-07-12 22:54:54,184 - ebanking -INFO - user name provided
+2022-07-12 22:54:54,428 - ebanking -INFO - password provided
+2022-07-12 22:55:00,541 - ebanking -INFO - user name provided
+2022-07-12 22:55:00,649 - ebanking -INFO - password provided
+2022-07-12 22:55:05,467 - ebanking -INFO - Login passed
+2022-07-12 22:55:39,301 - ebanking -INFO - Username entered
+2022-07-12 22:55:39,405 - ebanking -INFO - Password entered
+2022-07-12 22:55:41,433 - ebanking -INFO - Submitted
+2022-07-12 22:55:44,552 - ebanking -INFO - Navigated to new customer page
+2022-07-12 22:55:51,920 - ebanking -INFO - Filled new customer details
+2022-07-12 22:55:53,782 - ebanking -INFO - New customer details submitted
+2022-07-12 22:55:56,784 - ebanking -INFO - Validation started
+2022-07-12 22:55:56,829 - ebanking -INFO - Testcase passed
+2022-07-12 22:56:52,491 - ebanking -INFO - Entered URL
+2022-07-12 22:56:52,871 - ebanking -INFO - Entered UserName
+2022-07-12 22:56:53,048 - ebanking -INFO - Entered Password
+2022-07-12 22:56:54,790 - ebanking -INFO - Submitted
+2022-07-12 22:56:54,805 - ebanking -INFO - Login test passed
+2022-07-12 22:57:24,133 - ebanking -INFO - user name provided
+2022-07-12 22:57:24,278 - ebanking -INFO - password provided
+2022-07-12 22:57:31,375 - ebanking -INFO - user name provided
+2022-07-12 22:57:31,478 - ebanking -INFO - password provided
+2022-07-12 22:57:37,266 - ebanking -INFO - user name provided
+2022-07-12 22:57:37,412 - ebanking -INFO - password provided
+2022-07-12 22:57:42,622 - ebanking -INFO - user name provided
+2022-07-12 22:57:42,854 - ebanking -INFO - password provided
+2022-07-12 22:57:47,625 - ebanking -INFO - Login passed
+2022-07-12 22:58:21,355 - ebanking -INFO - Username entered
+2022-07-12 22:58:21,460 - ebanking -INFO - Password entered
+2022-07-12 23:07:01,199 - ebanking -INFO - user name provided
+2022-07-12 23:07:01,358 - ebanking -INFO - password provided
+2022-07-12 23:07:08,693 - ebanking -INFO - user name provided
+2022-07-12 23:07:08,888 - ebanking -INFO - password provided
+2022-07-12 23:07:15,637 - ebanking -INFO - user name provided
+2022-07-12 23:07:15,839 - ebanking -INFO - password provided
+2022-07-12 23:07:22,291 - ebanking -INFO - user name provided
+2022-07-12 23:07:22,495 - ebanking -INFO - password provided
+2022-07-12 23:07:27,391 - ebanking -INFO - Login passed
+2022-07-12 23:07:40,677 - ebanking -INFO - Username entered
+2022-07-12 23:07:40,899 - ebanking -INFO - Password entered
+2022-07-12 23:07:43,168 - ebanking -INFO - Submitted
+2022-07-12 23:07:46,298 - ebanking -INFO - Navigated to new customer page
+2022-07-12 23:51:54,398 - ebanking -INFO - user name provided
+2022-07-12 23:51:54,510 - ebanking -INFO - password provided
+2022-07-12 23:52:00,790 - ebanking -INFO - user name provided
+2022-07-12 23:52:01,054 - ebanking -INFO - password provided
+2022-07-12 23:52:08,529 - ebanking -INFO - user name provided
+2022-07-12 23:52:08,689 - ebanking -INFO - password provided
+2022-07-12 23:52:16,824 - ebanking -INFO - user name provided
+2022-07-12 23:52:17,028 - ebanking -INFO - password provided
+2022-07-12 23:52:22,122 - ebanking -INFO - Login passed
+2022-07-12 23:52:36,322 - ebanking -INFO - Username entered
+2022-07-12 23:52:36,474 - ebanking -INFO - Password entered
+2022-07-13 00:13:07,446 - ebanking -INFO - user name provided
+2022-07-13 00:13:07,544 - ebanking -INFO - password provided
+2022-07-13 00:13:14,052 - ebanking -INFO - user name provided
+2022-07-13 00:13:14,162 - ebanking -INFO - password provided
+2022-07-13 00:13:20,671 - ebanking -INFO - user name provided
+2022-07-13 00:13:21,357 - ebanking -INFO - password provided
+2022-07-13 00:13:28,246 - ebanking -INFO - user name provided
+2022-07-13 00:13:28,347 - ebanking -INFO - password provided
+2022-07-13 00:13:33,103 - ebanking -INFO - Login passed
+2022-07-13 00:14:09,123 - ebanking -INFO - Username entered
+2022-07-13 00:14:09,211 - ebanking -INFO - Password entered
